@@ -19,5 +19,5 @@ The data was sourced from [Kaggle]
 -Created custom SQL queries after testing their efficiency on MySQL.
 -Loaded customed queries and pivoted their data labels in format pane to create visuals. 
 -Built an interactive dashboard for users. 
-# Dashboard
+##Dashboard
 -<a href= "https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/Power%20BI%20Visual%20Screenshot.jpg"> Dashboard  
