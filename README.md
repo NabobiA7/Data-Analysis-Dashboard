@@ -1,5 +1,5 @@
 # State-by-State Distinct Brand Interaction Analysis using SQL & Power BI
-##Project Objective 
+# Project Objective 
 Identify trends, growth, count, and their changes throughout some given period, within geographical boundaries, and provide actionable insights for business decision-making. 
 ##Features
 -Data cleaning and preparing using SQL.
@@ -12,3 +12,12 @@ Identify trends, growth, count, and their changes throughout some given period, 
 ##Dataset Used
 The data was sourced from [Kaggle]
 -<a href= "https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/final_agg_user_CSV.csv">Dataset
+# Process
+-Used SQL queries to clean and preprocess the raw data.
+-Wrote SQL queries to calculate cumulative count, percentage growth and brands transaction tendency by state and over the time.
+-Imported, organized data into Power BI.
+-Created custom SQL queries after testing their efficiency on MySQL.
+-Loaded customed queries and pivoted their data labels in format pane to create visuals. 
+-Built an interactive dashboard for users. 
+# Dashboard
+-<a href= "https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/Power%20BI%20Visual%20Screenshot.jpg"> 
