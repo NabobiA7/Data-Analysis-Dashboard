@@ -20,7 +20,7 @@ The data was sourced from [Kaggle]
 -Loaded customed queries and pivoted their data labels in format pane to create visuals. 
 -Built an interactive dashboard for users. 
 # SQL Query
-- 
+-<a href= "https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/finetech_dataset.sql"> Query Text File
 # Dashboard
 -![Power BI Visual Screenshot](https://github.com/user-attachments/assets/5fbc0a7e-268d-4f93-8ff1-028613431ed0)
 
