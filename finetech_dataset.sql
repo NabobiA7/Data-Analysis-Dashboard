@@ -8,7 +8,7 @@ SELECT * FROM final_agg_user_csv;
 # Analyze
 SELECT brand, state ,SUM(count) AS total_count FROM final_agg_user_csv GROUP BY brand, state ORDER BY total_count DESC LIMIT 10;
 
-SELECT state ,AVG (percentage) AS average_percentage FROM final_agg_user_csv GROUP BY state ORDER BY average_percentage DESC LIMIT 10; 
+SELECT brand, state ,AVG (percentage) AS average_percentage FROM final_agg_user_csv GROUP BY brand, state ORDER BY average_percentage DESC LIMIT 10; 
 
 
 SELECT brand ,MAX(count)AS max_count, CONCAT(year, 'Q', quarter) AS year_quarter FROM final_agg_user_csv  GROUP BY brand , year_quarter ORDER BY max_count DESC LIMIT 10;
