@@ -6,7 +6,7 @@ GROUP BY  brand, count, percentage, state, year, quarter
 HAVING COUNT(*) > 1; 
 SELECT * FROM final_agg_user_csv;
 # Analyze
-SELECT state ,SUM(count) AS total_count FROM final_agg_user_csv GROUP BY state ORDER BY total_count DESC LIMIT 10;
+SELECT brand, state ,SUM(count) AS total_count FROM final_agg_user_csv GROUP BY brand, state ORDER BY total_count DESC LIMIT 10;
 
 SELECT state ,AVG (percentage) AS average_percentage FROM final_agg_user_csv GROUP BY state ORDER BY average_percentage DESC LIMIT 10; 
 
@@ -23,7 +23,7 @@ SELECT brand, MAX(count) AS max_count FROM final_agg_user_csv GROUP BY brand ORD
 
 SELECT year, SUM(percentage) AS total_percentage, LAG(SUM(percentage)) OVER (ORDER BY year) AS previous_year_percentage, (SUM(percentage) - LAG(SUM(percentage)) OVER (ORDER BY year)) / LAG(SUM(percentage)) OVER (ORDER BY year) * 100 AS percentage_growt FROM final_agg_user_csv GROUP BY year;
 
-# alternative way incase MySQL doesn't support window funtion
+# alternative way in case MySQL doesn't support window funtion
 WITH CTE AS (
     SELECT 
         year, 
