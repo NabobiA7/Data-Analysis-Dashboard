@@ -21,7 +21,7 @@ SELECT year, SUM(count) AS total_count, SUM(SUM(count)) OVER (ORDER BY year) AS 
 SELECT brand, MAX(count) AS max_count FROM final_agg_user_csv GROUP BY brand ORDER BY max_count DESC LIMIT 10;
 
 
-SELECT year, SUM(percentage) AS total_percentage, LAG(SUM(percentage)) OVER (ORDER BY year) AS previous_year_percentage, (SUM(percentage) - LAG(SUM(percentage)) OVER (ORDER BY year)) / LAG(SUM(percentage)) OVER (ORDER BY year) * 100 AS percentage_growt FROM final_agg_user_csv GROUP BY year;
+SELECT brand, year, SUM(percentage) AS total_percentage ,LAG(SUM(percentage)) OVER (ORDER BY year) AS previous_year_percentage, (SUM(percentage) - LAG(SUM(percentage)) OVER (ORDER BY year)) / LAG(SUM(percentage)) OVER (ORDER BY year) * 100 AS percentage_growt FROM final_agg_user_csv WHERE brand='Xiaomi' GROUP BY brand, year;
 
 # alternative way in case MySQL doesn't support window funtion
 WITH CTE AS (
