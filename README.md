@@ -3,7 +3,7 @@
 Identify trends, growth, count, and their changes throughout some given period, within geographical boundaries, and provide actionable insights for business decision-making. 
 ##Features
 -Data cleaning and preparing using SQL.
--Deriving metrics to evaluate brands, transaction and interaction records within states and years, as well as quarters for advanced analysis using MySQL workbench. 
+-Deriving metrics to evaluate brands, transaction, and interaction records within states and years, as well as quarters for advanced analysis using MySQL workbench. 
 -Interactive Power BI dashboard with filters for state, time, and brand with custom-made SQL query.
 -Data-driven insights for business strategy optimization. 
 ## Tools and Techniques
@@ -14,10 +14,10 @@ The data was sourced from [Kaggle]
 -<a href= "https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/final_agg_user_CSV.csv">Dataset
 # Process
 -Used SQL queries to clean and preprocess the raw data.
--Wrote SQL queries to calculate cumulative count, percentage growth and brands transaction tendency by state and over the time.
--Imported, organized data into Power BI.
+-Wrote SQL queries to calculate cumulative count, percentage growth, and brand transaction tendency by state and over time.
+-Imported, and organized data into Power BI.
 -Created custom SQL queries after testing their efficiency on MySQL.
--Loaded customed queries and pivoted their data labels in format pane to create visuals. 
+-Loaded custom queries and pivoted their data labels in the format pane to create visuals. 
 -Built an interactive dashboard for users. 
 # SQL Query
 -<a href= "https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/finetech_dataset.sql"> Query Text File
@@ -29,5 +29,6 @@ The data was sourced from [Kaggle]
 2.	“Xiaomi” is also the most dominant brand in Manipur, Jammu, and Kashmir, Mizoram, which are interestingly situated in the **North & Northeastern** parts of India. 
 3.	The sum of the cumulative count from the year 2018 to 2022 is 9.55 billion. 
 4.	Xiaomi, Vivo, and Samsung have the highest count in terms of max count by year-end & also by quarter. 
-5.	Brands with the least count in every segment are Lenovo, Gionee, Motorola, and Coolpad mostly in the states of Lakshadweep, Ladakh & Mizoram which are remote areas as each share borders with neighbor nations. 
-
+5.	Brands with the least count in every segment are Lenovo, Gionee, Motorola, and Coolpad mostly in the states of Lakshadweep, Ladakh & Mizoram which are remote areas as each share borders with neighboring nations. 
+# Conclusion
+-
