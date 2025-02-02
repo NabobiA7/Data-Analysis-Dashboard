@@ -23,4 +23,11 @@ The data was sourced from [Kaggle]
 -<a href= "https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/finetech_dataset.sql"> Query Text File
 # Dashboard
 -![Power BI Visual Screenshot](https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/Git_Power_BI_Visual.png)
+# Project Insight
+- The key observations based on the insights: 
+1.	State Maharashtra has the highest concentration of Xiaomi and Samsung “outlets, making up 27.73% of the total outlets nationwide. 
+2.	“Xiaomi” is also the most dominant brand in Manipur, Jammu, and Kashmir, Mizoram, which are interestingly situated in the **North & Northeastern** parts of India. 
+3.	The sum of the cumulative count from the year 2018 to 2022 is 9.55 billion. 
+4.	Xiaomi, Vivo, and Samsung have the highest count in terms of max count by year-end & also by quarter. 
+5.	Brands with the least count in every segment are Lenovo, Gionee, Motorola, and Coolpad mostly in the states of Lakshadweep, Ladakh & Mizoram which are remote areas as each share borders with neighbor nations. 
 
