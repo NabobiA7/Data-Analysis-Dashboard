@@ -25,10 +25,12 @@ The data was sourced from [Kaggle]
 -![Power BI Visual Screenshot](https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/Git_Power_BI_Visual.png)
 # Project Insight
 - The key observations based on the insights: 
-1.	State Maharashtra has the highest concentration of **Xiaomi and Samsung** outlets, making up 27.73% of the total outlets nationwide. 
+1.	State Maharashtra & Uttar-Pradesh have the highest concentration of **Xiaomi and Samsung** and Rajasthan  & Gujrat have the highest count of **Vivo** nationwide. 
 2.	“Xiaomi” is also the most dominant brand in Manipur, Jammu, and Kashmir, Mizoram, which are interestingly situated in the **North & Northeastern** parts of India. 
 3.	The sum of the cumulative count from the year 2018 to 2022 is 9.55 billion. 
 4.	Xiaomi, Vivo, and Samsung have the highest count in terms of max count by year-end & also by quarter. 
 5.	Brands with the least count in every segment are Lenovo, Gionee, Motorola, and Coolpad mostly in the states of Lakshadweep, Ladakh & Mizoram which are remote areas as each share borders with neighboring nations. 
 # Conclusion
--
+-	The most economically developed regions of India are situated on the West side as it includes the states of Maharashtra, Gujrat, and Rajasthan which are known as the home of stock markets, headquarters of corporate entities, tourism industry, and also mineral-based industries. Brands like **Xiaomi, Samsung, and Vivo hold their dominance as these brands offer mid-range to high-end models as well. 
+-	Meanwhile, brands with the lowest counts are concentrated in the geographical extremes like Lakshadweep and Mizoram which have narrow populations in comparison to mainland states which calls for a demography-based survey that will allow Austo to recognize whether this event is caused by low economic activity or preference or lack of knowledge.  
+
