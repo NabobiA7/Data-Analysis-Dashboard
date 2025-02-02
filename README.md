@@ -9,7 +9,7 @@ Identify trends, growth, count, and their changes throughout some given period, 
 ## Tools and Techniques
 -	**SQL**: Data extraction, manipulation, analyzing.
 -	**Power BI**: Data visualization and dashboard creation.
-##Dataset Used
+## Dataset Used
 The data was sourced from [Kaggle]
 -<a href= "https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/final_agg_user_CSV.csv">Dataset
 # Process
