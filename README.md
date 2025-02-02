@@ -31,6 +31,6 @@ The data was sourced from [Kaggle]
 4.	Xiaomi, Vivo, and Samsung have the highest count in terms of max count by year-end & also by quarter. 
 5.	Brands with the least count in every segment are Lenovo, Gionee, Motorola, and Coolpad mostly in the states of Lakshadweep, Ladakh & Mizoram which are remote areas as each share borders with neighboring nations. 
 # Conclusion
--	The most economically developed regions of India are situated on the West side as it includes the states of Maharashtra, Gujrat, and Rajasthan which are known as the home of stock markets, headquarters of corporate entities, tourism industry, and also mineral-based industries. Brands like **Xiaomi, Samsung, and Vivo hold their dominance as these brands offer mid-range to high-end models as well. 
+-	The most economically developed regions of India are situated on the West side as it includes the states of Maharashtra, Gujrat, and Rajasthan which are known as the home of stock markets, headquarters of corporate entities, tourism industry, and also mineral-based industries. Brands like **Xiaomi, Samsung, and Vivo** hold their dominance as these brands offer mid-range to high-end models as well. 
 -	Meanwhile, brands with the lowest counts are concentrated in the geographical extremes like Lakshadweep and Mizoram which have narrow populations in comparison to mainland states which calls for a demography-based survey that will allow Austo to recognize whether this event is caused by low economic activity or preference or lack of knowledge.  
 
