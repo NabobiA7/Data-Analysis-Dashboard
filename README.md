@@ -22,5 +22,5 @@ The data was sourced from [Kaggle]
 # SQL Query
 -<a href= "https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/finetech_dataset.sql"> Query Text File
 # Dashboard
--![Power BI Visual Screenshot](https://github.com/user-attachments/assets/5fbc0a7e-268d-4f93-8ff1-028613431ed0)
+-![Power BI Visual Screenshot](https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/Git_Power_BI_Visual.png)
 
