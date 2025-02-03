@@ -22,7 +22,7 @@ The data was sourced from [Kaggle]
 # SQL Query
 -<a href= "https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/finetech_dataset.sql"> Query Text File
 # Dashboard
--![Power BI Visual Screenshot](https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/Git_Power_BI_Visual.png)
+-![Power BI Visual Screenshot](https://github.com/NabobiA7/Data-Analysis-Dashboard/blob/main/GIT_visual_Power%20BI.png)
 # Project Insight
 - The key observations based on the insights: 
 1.	State Maharashtra & Uttar-Pradesh have the highest concentration of **Xiaomi and Samsung** and Rajasthan  & Gujrat have the highest count of **Vivo** nationwide. 
