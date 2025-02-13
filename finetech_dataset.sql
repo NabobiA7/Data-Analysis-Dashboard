@@ -22,6 +22,5 @@ WITH CTE AS ( SELECT year,
 SELECT year,
     ROUND(total_percentage, 2) AS total_percentage,
     ROUND(previous_year_percentage, 2) AS previous_year_percentage,
-    ROUND((total_percentage - previous_year_percentage) / previous_year_percentage * 100, 2) AS percentage_growth
-FROM CTE ;
+    ROUND((total_percentage - previous_year_percentage) / previous_year_percentage * 100, 2) AS percentage_growth FROM CTE ;
 
